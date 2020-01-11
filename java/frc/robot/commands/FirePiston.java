@@ -34,6 +34,6 @@ public class FirePiston extends CommandBase {
 
   @Override
   public boolean isFinished() {
-    return false;
+    return true;
   }
 }
